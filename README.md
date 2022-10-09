@@ -226,10 +226,10 @@ In terms of tech, the following has changed:
 ## Similar Projects
 
 * [clarity]
-* [errorlog]
 * [log.io]
-* [rtail]
+* [rtail](https://github.com/kilianc/rtail)
 * [tailon]
+* [live-file](https://github.com/bhelx/live-file)
 
 
 Attributions
